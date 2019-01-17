@@ -6,4 +6,6 @@
 ## How to run
 >>This works for gray images,You need to put the the image flies under obj path,and the size of the images should be gray 28*28, \
 the images like this:
+>>
+>>
 ![label image](https://raw.githubusercontent.com/Daonancai/CGAN-DNN/master/PycharmProjects/CGAN/y.png)

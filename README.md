@@ -8,4 +8,5 @@
 the images like this:
 >>
 >>
-![label image](https://raw.githubusercontent.com/Daonancai/CGAN-DNN/master/PycharmProjects/CGAN/y.png)
+![label image](https://raw.githubusercontent.com/Daonancai/CGAN-DNN/master/PycharmProjects/CGAN/y1.png)
+![label image](https://raw.githubusercontent.com/Daonancai/CGAN-DNN/master/PycharmProjects/CGAN/y2.png)

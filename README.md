@@ -6,3 +6,4 @@
 ## How to run
 >>This works for gray images,You need to put the the image flies under obj path,and the size of the images should be gray 28*28, \
 the images like this:
+![](http://github.com/Daonancai/CGAN-DNN/y.png)
